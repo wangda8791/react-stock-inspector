@@ -1,5 +1,10 @@
-# Pricing Blotter Test
-A boilerplate for displaying price data using react, redux and react-router with the help of webpack.
+#ReactJS Test
+###In order to be considered for a Rails position, you must complete the following steps.
+Note: This task should take no longer than 2 hours to complete.
+
+
+## Pricing Blotter Test
+This is a boilerplate for displaying price data using react, redux and react-router with the help of webpack.
 
 Contains: 
 
@@ -72,3 +77,7 @@ Simply replace **AAPL** in the URL with a **valid ticker symbol**. Price tickers
         "dividend": "0.57",
         "yield": "1.96"
     }
+
+## Once Complete
+1. Commit and Push your code to your new repository
+2. Send us a pull request. We will review your code and get back to you
